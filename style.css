@@ -1,0 +1,153 @@
+*{
+  margin:0;
+  padding: 0;
+  
+}
+
+.main {
+    padding: 0;
+    border-right: none;
+    font-family: 'Source Sans Pro', sans-serif;
+ 
+    font-size: 15px;
+    line-height: 1.5;
+  }
+.section1 
+{
+  display: flex;
+  background-color: #282A35;
+  color: white;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  
+}
+.Section2 
+{
+  display: flex;
+  background-color: #D9EEE1;
+  color:black;
+  padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.Section3
+{
+  display: flex;
+  background-color: #FFF4A3;
+    color: black;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.Section5
+{
+  display: flex;
+  color: #000;
+  background-color:  #fff;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  
+}
+.content
+{
+  text-align: center;
+   width: 50%; 
+  padding: 3%;
+   display: flex;
+ flex-direction: column;
+ align-items: center; 
+}
+h1{
+  font-size: 100px;
+    font-weight: 700;
+    margin-top: -18px;
+}
+p{
+  font-size: 19px;
+}
+.button1
+{
+  background-color: #04AA6D;
+  color: white;
+     margin-bottom: 2px;
+    display: block;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 8px 16px;
+   
+}
+.button2
+{
+  background-color: #FFF4A3;
+  color: black;
+  margin-bottom: 2px;
+    display: block;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 8px 16px;
+}
+.button3
+{
+background-color: white;
+color: #000;
+margin-bottom: 2px;
+display: block;
+width: 200px;
+font-size: 18px;
+border-radius: 25px;
+text-align: center;
+padding: 8px 16px;
+}
+.gray-color
+{
+  padding: 16px;
+  background-color: #E7E9EB;
+    color: black;
+    border-radius: 5px;
+  }
+.code{
+
+  background-color: white;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 8px 12px;
+    font-size: 20px;
+    font-family: Consolas,Menlo,"courier new",monospace;
+    border-left: 4px solid #4CAF50;
+}
+
+h3{
+  font-size: 24px;
+}
+.w3-button
+{
+  background-color: #04AA6D;
+  color: white;
+  border-radius: 25px;
+  width: 200px;
+  font-size: 18px;
+  padding: 12px 48px;
+  /* border: none; */
+  text-decoration: none;
+  text-align: center;
+  list-style: 1.5;
+}
+.w3-col{
+  padding: 3%;
+  width: 49.9999%;
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  /* align-content: center; */
+  flex-direction: column;
+}
+  
+
+.button
+{
+padding: 5px;
+}
